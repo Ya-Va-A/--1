@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/bin/Debug/net6.0/ref/Example005_ConditionIfElse.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/ref/Example005_ConditionIfElse.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.genruntimeconfig.cache
