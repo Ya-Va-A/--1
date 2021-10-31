@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/bin/Debug/net6.0/ref/Example007_Magic.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/ref/Example007_Magic.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.genruntimeconfig.cache
