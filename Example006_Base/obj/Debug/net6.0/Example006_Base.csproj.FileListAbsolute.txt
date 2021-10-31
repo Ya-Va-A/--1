@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/bin/Debug/net6.0/ref/Example006_Base.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache
