@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/bin/Debug/net6.0/ref/Example002_HelloUser.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
