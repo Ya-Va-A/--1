@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/bin/Debug/net6.0/Example008_IntroMetod
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/bin/Debug/net6.0/Example008_IntroMetod.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/bin/Debug/net6.0/Example008_IntroMetod.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/bin/Debug/net6.0/Example008_IntroMetod.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/bin/Debug/net6.0/ref/Example008_IntroMetod.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/bin/Debug/net6.0/Example008_IntroMetod.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/ref/Example008_IntroMetod.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example008_IntroMetod/obj/Debug/net6.0/Example008_IntroMetod.genruntimeconfig.cache
