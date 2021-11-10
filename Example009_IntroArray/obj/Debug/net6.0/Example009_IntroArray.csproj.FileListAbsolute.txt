@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/bin/Debug/net6.0/ref/Example009_IntroArray.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/ref/Example009_IntroArray.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.genruntimeconfig.cache
