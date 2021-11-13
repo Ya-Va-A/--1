@@ -1,13 +1,13 @@
 ﻿Console.Write("Введите имя пользователя: ");
-string username = Console.ReadLine();
+string username = Console.ReadLine(); //наименование переменной
 
-if(username.ToLower() == "маша")
+if(username.ToLower() == "маша") // условие
 {
-    Console.WriteLine("Ура, это же МАША!");
+    Console.WriteLine("Ура, это же МАША!");//набор дпействтй
 }
 else
 {
-    Console.Write("Привет, ");
+    Console.Write("Привет, "); // набор действией 2
     Console.WriteLine(username);
 }
 
