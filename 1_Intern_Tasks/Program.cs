@@ -90,14 +90,31 @@
 // Console.WriteLine (max);
 
 // 5. Написать программу вычисления значения функции y = f(a)
+// Console.WriteLine ("Enter number");
+// int a = new Random().Next (1, 10);
+// int y = a;
+// Console.WriteLine ($"y=f({a})");
 
 // ------------------------------
 
 // 6. Выяснить является ли число чётным
 
+// int a = new Random().Next (1,10);
+// bool NUM (int a)
+// {
+//     if (a % 2 == 0) return true;
+//     else return false;
+// }
+// Console.WriteLine($"Проверяемое число {a}");
+// if (NUM (a) == true)
+// Console.WriteLine ($"{a} - число четное");
+// if (NUM (a) == false)
+// Console.WriteLine ($"{a} - число нечетное");
+
 // ------------------------------
 
 // 7. Показать числа от -N до N
+
 
 // ------------------------------
 
